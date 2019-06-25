@@ -13,7 +13,7 @@ Set up application:
 3. In Eclipse menu select Window -> Show View -> Servers. If there is no servers available, click on the link, 
 then in Apache folder select Tomcat v8.5 Server. Hit Browse button and select folder where Tomcat is unpacked, then click Finish
 
-4. Download project from GitHub.
+4. Download project from GitHub: https://github.com/EmilWalewski/SportCompassWebApplication.git
 
 5. In Eclipse menu select File -> Import, type maven, select Existing Maven Projects, click Next, click Browse and select unpacked project folder. Indicate option below and hit Finish
 
