@@ -43,7 +43,7 @@ Click the right button of the mouse on the project, select Run as and press Run 
 Additional information:
 
 - Embedded H2 Database is added by maven dependency  
-- In application I created interface using bootstrap
+- In application UI is created using bootstrap
 - The views are in the folder: src -> main -> webapp -> WEB-INF
 - Tests and application classes are in Java Resoucre folder
 
