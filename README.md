@@ -33,6 +33,7 @@ Creating database:
 Application is ready to use.
 
 Additional information:
+
 -Embedded H2 Database added by maven dependency  
 -In application I created interface using bootstrap
 
