@@ -15,7 +15,9 @@ then in Apache folder select Tomcat v8.5 Server. Hit Browse button and select fo
 
 4. Download project from GitHub: https://github.com/EmilWalewski/SportCompassWebApplication.git
 
-5. In Eclipse menu select File -> Import, type maven, select Existing Maven Projects, click Next, click Browse and select unpacked project folder. Indicate option below and hit Finish
+5. Unpackage project.
+
+6. In Eclipse menu select File -> Import, type maven, select Existing Maven Projects, click Next, click Browse and select unpacked project folder. Indicate option below and hit Finish
 
 Creating database:
 
