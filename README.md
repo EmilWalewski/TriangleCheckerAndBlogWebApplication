@@ -21,7 +21,7 @@ then in Apache folder select Tomcat v8.5 Server. Press Browse button and select 
 
 Creating database:
 
-1. In file browser type h2 and select h2-1.4.192.jar
+1. In OS file browser type h2 and select h2-1.4.192.jar
 2. In JDBC URL paste: jdbc:h2:tcp://localhost/~/task2
 3. Test connection then connect
 4. In command window paste and run one by one
