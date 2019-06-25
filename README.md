@@ -10,7 +10,7 @@ Set up application:
 
 2. Unpackage on disk
 
-3. In Eclipse menu select Window -> Show View -> Servers. If there is no servers available, click on the link, 
+3. In Eclipse menu select Window -> Show View -> Servers. If there is no servers available, click the link, 
 then in Apache folder select Tomcat v8.5 Server. Hit Browse button and select folder where Tomcat is unpacked, then click Finish
 
 4. Download project from GitHub: https://github.com/EmilWalewski/SportCompassWebApplication.git
