@@ -2,7 +2,7 @@
 
 Requirements:
 - minimum Java 8 is required
-- Eclipse EE environment
+- Eclipse IDE for Java EE Developers environment
 
 Setting up application:
 
@@ -38,10 +38,11 @@ Click the right button of the mouse on the project, select Run as and press JUni
 
 Running application: 
 
-Click the right button of the mouse on the project, select Run as and press Run on Server
+Click the right button of the mouse on the project, select Run as and press Run on Server, press Next, add project to Configured panel and click Finish
 
 Additional information:
 
 -Embedded H2 Database is added by maven dependency  
 -In application I created interface using bootstrap
+-The views are in the folder: src -> main -> webapp -> WEB-INF
 
