@@ -11,13 +11,13 @@ Set up application:
 2. Unpackage on disk
 
 3. In Eclipse menu select Window -> Show View -> Servers. If there is no servers available, click the link, 
-then in Apache folder select Tomcat v8.5 Server. Hit Browse button and select folder where Tomcat is unpacked, then click Finish
+then in Apache folder select Tomcat v8.5 Server. Press Browse button and select folder where Tomcat is unpacked, then click Finish
 
 4. Download project from GitHub: https://github.com/EmilWalewski/SportCompassWebApplication.git
 
 5. Unpackage project.
 
-6. In Eclipse menu select File -> Import, type maven, select Existing Maven Projects, click Next, click Browse and select unpacked project folder. Indicate option below and hit Finish. If any error occurs, please ignore it 
+6. In Eclipse menu select File -> Import, type maven, select Existing Maven Projects, press Next, click Browse and select unpacked project folder. Indicate option below and hit Finish. If any error occurs, please ignore it 
 
 Creating database:
 
@@ -32,7 +32,13 @@ Creating database:
 
 -alter table  comments add  foreign key (idpost) references posts (id) on delete cascade on update cascade
 
-Application is ready to use.
+Running tests:
+
+Click the right button of the mouse on the project, select Run as and press JUnit Tests
+
+Running application: 
+
+Click the right button of the mouse on the project, select Run as and press Run on Server
 
 Additional information:
 
