@@ -2,9 +2,9 @@ package task.validator;
 
 public enum ValidatorEnum {
 	
-	POSTFIELDS("[A-Z][A-Za-z-\\x20-\\x7E]{4,250}+$", "err_code", "A capital letter and minimum 4 characters required"),
-	COMMENTAUTHORFIELD("[aA-Za-z-\\x20-\\x7E]{3,20}", "err_code", "Minimum 4 characters required"),
-	COMMENTCONTENTFIELD("[aA-Za-z-\\x20-\\x7E]{3,250}+$", "err_code", "Minimum 4 characters required");
+	POSTFIELDS("[A-Z][A-Za-z-\\x20-\\x7E]{3,250}+$", "err_code", "A capital letter and minimum 4 characters required"),
+	COMMENTAUTHORFIELD("[aA-Za-z-\\x20-\\x7E]{3,20}", "err_code", "Minimum 3 characters required"),
+	COMMENTCONTENTFIELD("[aA-Za-z-\\x20-\\x7E]{2,250}+$", "err_code", "Minimum 3 characters required");
 	
 	private String pattern;
 	private String errCode;

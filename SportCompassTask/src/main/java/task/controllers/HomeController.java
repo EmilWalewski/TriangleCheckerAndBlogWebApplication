@@ -8,6 +8,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 /*
  * 
+ * 		@Author Emil Walewski
+ * 
+ * 
  * 		Controller displays main page of whole application and allows switching between triangle calculator and blog
  * 
  */

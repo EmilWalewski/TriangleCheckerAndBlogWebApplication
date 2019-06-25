@@ -86,7 +86,7 @@ integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw
 										</div>
 										
 										<div class="form-group">
-											Author and content fields should have at least 4 characters
+											Author field should have at least 3 characters and content field should have at least 2 characters
 										</div>
 							
 									<form:button  type="submit" class="btn btn-success">Add</form:button> <a href="mainBlogView" class="btn btn-success">Cancel</a>
