@@ -4,7 +4,7 @@ Requirements:
 - minimum Java 8 is required
 - Eclipse EE environment
 
-Set up application:
+Setting up application:
 
 1. Download zip(Binary Distributions -> Core) Tomcat v8.5 from : https://tomcat.apache.org/download-80.cgi
 
