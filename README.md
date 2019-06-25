@@ -26,11 +26,11 @@ Creating database:
 3. Test connection and Connect
 4. In command window paste and run one by one
 
--create table posts(id int primary key, postheader varchar, postcontent varchar)
+create table posts(id int primary key, postheader varchar, postcontent varchar)
 
--create table comments(id int primary key, idpost int, author varchar, content varchar)
+create table comments(id int primary key, idpost int, author varchar, content varchar)
 
--alter table  comments add  foreign key (idpost) references posts (id) on delete cascade on update cascade
+alter table  comments add  foreign key (idpost) references posts (id) on delete cascade on update cascade
 
 Running tests:
 
