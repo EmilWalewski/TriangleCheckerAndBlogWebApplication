@@ -17,7 +17,7 @@ then in Apache folder select Tomcat v8.5 Server. Hit Browse button and select fo
 
 5. Unpackage project.
 
-6. In Eclipse menu select File -> Import, type maven, select Existing Maven Projects, click Next, click Browse and select unpacked project folder. Indicate option below and hit Finish
+6. In Eclipse menu select File -> Import, type maven, select Existing Maven Projects, click Next, click Browse and select unpacked project folder. Indicate option below and hit Finish. If any error occurs, please ignore it 
 
 Creating database:
 
