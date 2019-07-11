@@ -1,4 +1,4 @@
-# SportCompassWebApplication
+# Spring MVC application
 
 Requirements:
 - minimum Java 8 is required
