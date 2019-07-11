@@ -1,7 +1,7 @@
 # Spring MVC application
 
 Requirements:
-- minimum Java 8 is required
+- minimum Java 8
 - Eclipse IDE for Java EE Developers environment
 
 Setting up application:
